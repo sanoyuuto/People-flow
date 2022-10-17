@@ -10,5 +10,7 @@
 https://user-images.githubusercontent.com/103728140/170539380-caddfd80-9b3a-4af9-9ca2-6602cd313c4e.mp4
 
 ## 回路図
+以下に使用した回路図を示す.
+HCSR-04二つとLCD1602 Module一つの合計三つを5V電源とGNDが共有するようにブレッドボード上で回路を作成した。また、 echoやTrigなどの各端子がプログラム上で設定した番号と一致するように回路が組まれている。
 <img src="https://github.com/sanoyuuto/People-flow/blob/master/%E5%9B%9E%E8%B7%AF%E5%9B%B3.png" width="50%" />
 
